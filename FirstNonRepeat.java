@@ -23,7 +23,7 @@ public class FirstNonRepeat {
         char result = firstNonRepeatingChar(input);
 
         if (result != '\0') {
-            System.out.println("First non-repeating character: " + result);
+            System.out.println("First testing non-repeating character: " + result);
         } else {
             System.out.println("No non-repeating character found.");
         }
